@@ -1,0 +1,2 @@
+# No external packages required – uses Python standard library only
+# Keep this file to indicate Python 3.8+ compatibility
